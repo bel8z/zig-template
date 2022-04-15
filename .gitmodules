@@ -1,0 +1,4 @@
+[submodule "deps/bolts"]
+	path = deps/bolts
+	url = https://github.com/bel8z/bolts.git
+	branch = master
